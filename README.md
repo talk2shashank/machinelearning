@@ -1,6 +1,6 @@
 # Machine Learning Projects
-Supervised Learning
-1. Boston Housing Predecition 
-2. Student Intervention System
+1. Supervised Learning
+	* Boston Housing Predecition 
+	* Student Intervention System
 
-Un-Supervised Learning
+2. Un-Supervised Learning
