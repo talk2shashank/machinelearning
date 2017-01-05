@@ -5,3 +5,6 @@
 
 2. Un-Supervised Learning
 	* Creating Customer Segments
+	* SmartCab Routing
+3. Deep Learning
+	* Classifying SVHN Dataset
