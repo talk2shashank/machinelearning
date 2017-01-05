@@ -7,4 +7,4 @@
 	* Creating Customer Segments
 	* SmartCab Routing
 3. Deep Learning
-	* Coming soon!!
+	* Classifying SVHN Dataset
